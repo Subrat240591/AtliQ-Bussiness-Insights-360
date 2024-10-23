@@ -1,4 +1,5 @@
-# Business_360
+# Business_360 DashBoard
+https://app.powerbi.com/view?r=eyJrIjoiOTJmYzM2YjEtZmZiYy00MjIxLTg0NTYtZDgxMWFlNDk3YmNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 Project Overview
@@ -101,4 +102,4 @@ Task: As a Data Analyst generate insights through reports built considering diff
 
 Finance view Sales view Marketing view Supply Chain Executive View such that stakeholders can unlock insights and enable data driven decision making.
 
-Data Model
+
